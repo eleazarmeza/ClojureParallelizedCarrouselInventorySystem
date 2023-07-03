@@ -1,5 +1,5 @@
 
-# Clojure Parallelized Vertical Carrousel Inventory System
+# Clojure Parallelized Vertical Multiple-Carrousel Inventory System
 
 Use multiple vertical carrusels in a Parallelized system, which is more efficent due to the use of a thread per carrousel, rather than a single thread for all carrousels (the traditional way).
 
