@@ -8,6 +8,12 @@ Use multiple vertical carrusels in a Parallelized system, which is more efficent
 ![App Screenshot](https://cardinalintegrated.com/wp-content/uploads/2021/03/Vertical-Carousel.jpg)
 
 
+## Automaton movement solution
+![App Screenshot]([https://cardinalintegrated.com/wp-content/uploads/2021/03/Vertical-Carousel.jpg](https://raw.githubusercontent.com/eleazarmeza/ClojureParallelizedCarrouselInventorySystem/main/LeftRightAutomaton.png))
+
+![App Screenshot]([https://cardinalintegrated.com/wp-content/uploads/2021/03/Vertical-Carousel.jpg](https://raw.githubusercontent.com/eleazarmeza/ClojureParallelizedCarrouselInventorySystem/main/UpDownAutomaton.png))
+
+
 ## Features
 
 m = rows
